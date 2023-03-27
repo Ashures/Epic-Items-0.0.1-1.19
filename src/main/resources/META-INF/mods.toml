@@ -43,7 +43,7 @@ authors="Ashures" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Ashures' Epic Items! The only limit is your imagination!
-... and my will power to add in additional items.
+... and my will power to add anything.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.epicitems]] #optional
